@@ -1,0 +1,5 @@
+{"file":"gameres.png","frames":{
+"startBtn":{"x":1027,"y":1,"w":233,"h":105,"offX":0,"offY":0,"sourceW":233,"sourceH":105},
+"surface":{"x":1,"y":1,"w":1024,"h":614,"offX":0,"offY":0,"sourceW":1024,"sourceH":614},
+"loadBtn":{"x":1027,"y":108,"w":233,"h":105,"offX":0,"offY":0,"sourceW":233,"sourceH":105},
+"exitBtn":{"x":1027,"y":215,"w":233,"h":105,"offX":0,"offY":0,"sourceW":233,"sourceH":105}}}
